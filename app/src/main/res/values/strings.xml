@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="save">Save</string>
+    <string name="profile">Profile</string>
+    <string name="science_fition">Science Fition</string>
+    <string name="ng_c_d_ng_th_i_gian_y_u_em">Ngược Dòng Thời Gian Để Yêu Em</string>
+    <string name="love_drama">Love Drama</string>
+    <string name="_16_05_2021">16/05/2021</string>
+    <string name="recommended">Recommended</string>
+    <string name="view_all">View All</string>
+</resources>
